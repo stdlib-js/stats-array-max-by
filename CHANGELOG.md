@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`e8d54b0`](https://github.com/stdlib-js/stdlib/commit/e8d54b0a5e8188e9583842f606191176c847b5a7) - **docs:** fix parameter type _(by Athan Reines)_
 -   [`61acb8f`](https://github.com/stdlib-js/stdlib/commit/61acb8f57954317098c7279713b480217dfeabff) - **docs:** fix parameter type _(by Athan Reines)_
 -   [`61b019f`](https://github.com/stdlib-js/stdlib/commit/61b019f6e730e0261c5cf1b070895451ba4abffd) - **docs:** fix input type _(by Athan Reines)_
 -   [`ee3f5ae`](https://github.com/stdlib-js/stdlib/commit/ee3f5ae5b8c3a4c6522dc9c03972507204814f3f) - **test:** use function declaration _(by Athan Reines)_
